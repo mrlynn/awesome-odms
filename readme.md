@@ -7,7 +7,7 @@
 
 - [JavaScript](#javascript)
 - [Python](#python)
-- [Golan](#golang)
+- [Golang](#golang)
 - [Ruby](#ruby)
 - [Java](#java)
 - [Scala](#scala)
@@ -18,7 +18,7 @@
 - [C](#c)
 
 
-## JavaScript {#javascript}
+## <a id="javascript"></a>JavaScript ##
 
 
 About this section. Optional. Keep this short and focus on the list.
@@ -27,28 +27,28 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 
 
-## Python # {#python}
+## <a id="python"></a> Python ##
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
-## Golang # {#golang}
+## <a id="golang"></a> Golang ##
 
-## Ruby # {#ruby}
+## <a id="ruby"></a> Ruby ## 
 
-## Java # {#java}
+## <a id="java"></a>Java ##
 
-## Scala # {#scala}
+## <a id="scala"></a>Scala ##
 
-## Rust # {#rust}
+## <a id="rust"></a>Rust ##
 
-## PHP # {#php}
+## <a id="php"></a>PHP ##
 
-## Perl # {#perl}
+## <a id="perl"></a>Perl ##
 
-## C# # {#csharp}
+## <a id="csharp"></a>C# ##
 
-## C # {#c}
+## <a id="c"></a>C ##
 
 
 ## Contribute
