@@ -1,4 +1,4 @@
-# Object Document Mappers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Object Document Mappers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome Object Document Mapping solutions
 
@@ -20,34 +20,35 @@
 
 ## JavaScript {#javascript}
 
+
 About this section. Optional. Keep this short and focus on the list.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
 
-## Python {#python}
+## Python # {#python}
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
-## Golang {#golang}
+## Golang # {#golang}
 
-## Ruby {#ruby}
+## Ruby # {#ruby}
 
-## Java {#java}
+## Java # {#java}
 
-## Scala {#scala}
+## Scala # {#scala}
 
-## Rust {#rust}
+## Rust # {#rust}
 
-## PHP {#php}
+## PHP # {#php}
 
-## Perl {#perl}
+## Perl # {#perl}
 
-## C# {#csharp}
+## C# # {#csharp}
 
-## C {#c}
+## C # {#c}
 
 
 ## Contribute
